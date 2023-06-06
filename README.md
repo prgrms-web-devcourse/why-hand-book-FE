@@ -57,3 +57,5 @@ git commit -m "edit: why_js_use"
 
 ## 🔖 목차
 
+- [Q. 자바스크립트를 사용하는 이유](https://github.com/prgrms-web-devcourse/why-hand-book-FE/blob/main/why_js_use.md)
+
