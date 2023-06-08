@@ -74,5 +74,5 @@ git commit -m "edit: why_js_use"
 
 ## 🔖 목차
 
-- [Q. 자바스크립트를 사용하는 이유](https://github.com/prgrms-web-devcourse/why-hand-book-FE/blob/main/why_js_use.md)
+- [Q. 핸드북을 작성하는 이유(목차 작성 예시)](https://github.com/prgrms-web-devcourse/why-hand-book-FE/blob/main/why_handbook_write.md)
 - [Q. 반응형 웹이 있는데 모바일 웹이 존재하는 이유](https://github.com/prgrms-web-devcourse/why-hand-book-FE/blob/main/why_mw_rw_exist.md)
